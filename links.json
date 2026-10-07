@@ -1,1 +1,10 @@
-police_bharti": "https://policerecruitment2026.mahait.org/",
+{
+  "police_verification": "https://citizen.mahapolice.gov.in/Citizen/MH/index.aspx",
+  "pf": "https://unifiedportal-mem.epfindia.gov.in/",
+  "esi": "https://www.esic.gov.in/",
+  "police_bharti": "https://www.mahapolice.gov.in/police-recru.php",
+  "shulk": 1,
+  "upi": "9822759913@ptsbi",
+  "free_mode": true,
+  "last_update": "2026-10-07"
+}
